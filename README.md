@@ -29,7 +29,7 @@ Repositori ini merupakan tugas UAS mata kuliah **Statistika Spasial** yang disus
 Peta sebaran risiko relatif dihasilkan menggunakan `ggplot2` dan `sf`, dengan gradasi warna dari **biru (RR < 1)** hingga **merah (RR > 1)**.
 
 
-![Peta Risiko Relatif COVID-19](peta rr.png)
+![Peta Risiko Relatif COVID-19](peta%20rr.png)
 
 ## 📦 Tools & Library
 - R  

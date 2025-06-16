@@ -28,6 +28,8 @@ Repositori ini merupakan tugas UAS mata kuliah **Statistika Spasial** yang disus
 ## 🗺️ Visualisasi
 Peta sebaran risiko relatif dihasilkan menggunakan `ggplot2` dan `sf`, dengan gradasi warna dari **biru (RR < 1)** hingga **merah (RR > 1)**.
 
+
+
 ## 📦 Tools & Library
 - R  
 - Packages: `CARBayes`, `rgdal`, `sf`, `spdep`, `ggplot2`, `ape`
